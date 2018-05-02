@@ -1,2 +1,2 @@
-# machine-learning-ex1
-Machine learning practice example 1
+# machine-learning-examples
+Machine learning practice examples
